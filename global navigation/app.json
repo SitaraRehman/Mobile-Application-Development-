@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Expo Global Styles Navigation",
+    "slug": "expo-global-styles-navigation",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0"
+  }
+}
